@@ -1,0 +1,6 @@
+com\walmartlabs\ticketing\onlineticketingservice\view\TestSeatDisplay.class
+com\walmartlabs\ticketing\onlineticketingservice\model\TestCustomer.class
+com\walmartlabs\ticketing\onlineticketingservice\model\TestCustomerManager.class
+com\walmartlabs\ticketing\onlineticketingservice\model\TestSeat.class
+com\walmartlabs\ticketing\onlineticketingservice\model\TestSeatHold.class
+com\walmartlabs\ticketing\onlineticketingservice\service\TestOrderTickets.class
